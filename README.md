@@ -1,6 +1,6 @@
 # statistical-tests-python
  
-#📊 Statistical Tests in Python
+📊 Statistical Tests in Python
 
 This repository contains Python programs that perform important statistical hypothesis tests such as:
 
@@ -12,7 +12,7 @@ T-Test (to compare means when population variance is unknown)
 
 These programs are useful for students, researchers, and data analysts who want to quickly perform statistical tests on CSV or Excel datasets using Python.
 
-#🧪 Features of This Project
+🧪 Features of This Project
 ✔ Performs three major hypothesis tests:
 
 F-Test: Checks whether two populations have equal variance.
@@ -27,7 +27,7 @@ You can load your own dataset by editing the file path inside tests.py.
 
 ✔ Uses standard Python libraries
 
-#Code uses:
+Code uses:
 
 pandas
 
@@ -37,7 +37,7 @@ scipy.stats
 
 These are widely used in academic and industry statistical analysis.
 
-#🚀 How to Run the Project
+🚀 How to Run the Project
 1. Clone the repository
 git clone 
 2. Install required libraries
