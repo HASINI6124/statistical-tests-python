@@ -12,6 +12,14 @@ T-Test (to compare means when population variance is unknown)
 
 These programs are useful for students, researchers, and data analysts who want to quickly perform statistical tests on CSV or Excel datasets using Python.
 
+📊 **Project Flow **
+Step No.	Process	Description
+1	Load Dataset	Reads CSV or Excel files using file paths defined inside tests.py.
+2	Data Preprocessing	Extracts required columns, handles missing values, and prepares arrays for statistical testing.
+3	Perform F-Test	Compares variances of two datasets and determines if population variances are equal.
+4	Perform T-Test	Compares means of two independent samples when population variance is unknown.
+5	Perform Z-Test	Compares means when population variance is known or sample size is large.
+
 🧪 **Features of This Project**
 
 ✔ **Performs three major hypothesis tests:**
